@@ -18,7 +18,7 @@ function App() {
       </div>
       <div className="subHeading">
         <br />
-        <h2>This is Travelix TODO List 🌝 ☕ </h2>
+        <h2>This is Travelix  Staff 🌝 ☕ </h2>
       </div>
       <div className="input">
         <input value={toDo} onChange={(e)=>setTodo(e.target.value)} type="text" placeholder="🖊️ Add item..." />
